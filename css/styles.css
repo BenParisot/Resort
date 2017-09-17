@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	background-color: purple;
+	color: white;
+}
+
+h1 {
+	size: 36px;
+}
+
+h2 {
+	color: red;
+	size: 24px;
+}
+
+a {
+	color: teal;
+	font-style: italic;
+}
+
+p {
+	text-transform: uppercase;
+}
