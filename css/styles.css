@@ -1,23 +1,23 @@
 body {
 	text-align: center;
-	background-color: purple;
-	color: white;
+	background-color: green;
+	color: black;
 }
 
 h1 {
-	size: 36px;
+	size: 28px;
 }
 
 h2 {
-	color: red;
-	size: 24px;
+	color: blue;
+	size: 16px;
 }
 
 a {
-	color: teal;
-	font-style: italic;
+	color: white;
+	font-style: bold;
 }
 
 p {
-	text-transform: uppercase;
+	text-transform: lowercase;
 }
